@@ -1,4 +1,4 @@
-bio==1.2.8
+bio
 ipywidgets==7.6.5
 matplotlib==3.4.3
 networkx==2.6.3
